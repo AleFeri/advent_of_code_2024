@@ -1,1 +1,4 @@
 **/input.txt
+.idea
+.vscode
+**/venv
